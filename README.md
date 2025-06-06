@@ -9,7 +9,7 @@ This project presents an exploratory data analysis of Zomato’s restaurant data
 - `Dataset used/` – Raw data files used for the analysis
 - `Sample Dashboard Result/` – Sample screenshots of Power BI dashboards
 - `Restaurant Data analysis Dashboard.pbix` – Power BI project file
-- `README.md` – Project documentation (you’re here)
+- `README.md` – Project documentation
 
 ---
 
@@ -39,7 +39,6 @@ This project presents an exploratory data analysis of Zomato’s restaurant data
 
 - Top Indian cities by restaurant count
 - Most popular cuisines in India
-- Pricing analysis and customer preferences
 - City-wise average ratings and cost trends
 
 ---
@@ -57,6 +56,6 @@ This project presents an exploratory data analysis of Zomato’s restaurant data
 
 1. Download or clone this repository.
 2. Open the `.pbix` file (`Restaurant Data analysis Dashboard.pbix`) in Power BI Desktop.
-3. Explore the full dashboard or review quick snapshots in the `Sample Dashboard Result/` folder.
+3. Explore the full dashboard.
 
 ---
